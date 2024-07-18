@@ -12,3 +12,4 @@ C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\refint\prac
 C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.pdb
 C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.genruntimeconfig.cache
 C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\ref\practice1.dll
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.sourcelink.json
