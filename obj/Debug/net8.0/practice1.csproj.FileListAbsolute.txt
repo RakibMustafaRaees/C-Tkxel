@@ -1,0 +1,14 @@
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\bin\Debug\net8.0\practice1.exe
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\bin\Debug\net8.0\practice1.deps.json
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\bin\Debug\net8.0\practice1.runtimeconfig.json
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\bin\Debug\net8.0\practice1.dll
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\bin\Debug\net8.0\practice1.pdb
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.AssemblyInfoInputs.cache
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.AssemblyInfo.cs
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.dll
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\refint\practice1.dll
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.pdb
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\practice1.genruntimeconfig.cache
+C:\Users\NITRO\Desktop\C# Practice Folder\practice1\obj\Debug\net8.0\ref\practice1.dll
