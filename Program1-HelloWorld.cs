@@ -1,11 +1,11 @@
-using System;                       // using System means that we can use classes from the System namespace.
+//using System;                       // using System means that we can use classes from the System namespace.
                                     // A blank line. C# ignores white space. However, multiple lines makes the code more readable.
-namespace HelloWorld_Descriptive                // Namespace is used to organize your code, and it is a container for classes and other namespaces.
+namespace HelloWorld                // Namespace is used to organize your code, and it is a container for classes and other namespaces.
 {                                   // The curly braces {} marks the beginning and the end of a block of code.
-  class Program                     // class is a container for data and methods, which brings functionality to your program. 
+  public class Program1_HelloWorld                     // class is a container for data and methods, which brings functionality to your program. 
                                     //Every line of code that runs in C# must be inside a class. In our example, we named the class --Program--
   {
-    static void program1(string[] args) // Another thing that always appear in a C# program is the Main method. Any code inside its curly brackets {} will be executed.
+    public static void descriptive_HelloWorld() // Another thing that always appear in a C# program is the Main method. Any code inside its curly brackets {} will be executed.
     {
       Console.WriteLine("Hello World with lots of comments");    
     }
